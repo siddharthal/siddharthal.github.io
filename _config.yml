@@ -3,12 +3,15 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+first_name: Siddhartha
+middle_name: 
+last_name: Laghuvarapu
+email: siddharthalsd@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Siddhartha is a Ph.D. candidate in the Department of Computer Science at the University of Illinois at Urbana Champaign. His research interests span broad areas of deep learning with emphasis on its application to Chemistry and Drug Discovery.
+  He received his Bachelor's in Computer Science and Master's in Computational Natural Sciences from IIIT Hyderabad, India. 
+  Previously, he worked as a Software Developer at Microsoft India and as a Machine Learning Engineer at AIcrowd. 
+  He is always eager to chat about research concerning Deep Learning and Physical Sciences.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

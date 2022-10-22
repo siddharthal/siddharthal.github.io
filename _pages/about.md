@@ -17,12 +17,12 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
- Siddhartha is a Ph.D. candidate in the Department of Computer Science at the University of Illinois at Urbana Champaign. 
- His research interests broadly include:
- - Deep Learning and Machine Learning
+ I am a Ph.D. student in the Department of Computer Science at the University of Illinois at Urbana Champaign, advised by Prof. Jimeng Sun. My broad research interests include: 
+ - Generative modeling in AI
  - Cheminformatics and Computational Drug Discovery
- - Graph Neural Neworks.
+ - Deep Learning on Healthcare
+ - Graph Neural Neworks
+ - Information Extraction
 
- He received his Bachelor's in Computer Science and Master's in Computational Natural Sciences from IIIT Hyderabad, India. 
- Previously, he worked as a Software Developer at Microsoft India and as a Machine Learning Engineer at AIcrowd. He is always eager to chat about research concerning Deep Learning and Physical Sciences.
+I received his Bachelor's in Computer Science and Master's in Computational Natural Sciences from IIIT Hyderabad, India, where I worked with Prof. U. Deva Priyakumar. Previously, I worked as a Software Developer at Microsoft India and as a Machine Learning Engineer at AIcrowd. I am always eager to chat about research concerning Deep Learning and Physical Sciences. Feel free to reach out via the social links to connect.
 

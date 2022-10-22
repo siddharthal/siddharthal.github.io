@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: *CS Ph.D. student at U of I *
 
 profile:
   align: right

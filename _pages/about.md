@@ -12,9 +12,9 @@ profile:
     <p>sl160[at]illinois[dot]edu</p>
     <p>Urbana,IL,USA</p>
 
+social: true  # includes social icons at the bottom of the page
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
 ---
  I am a Ph.D. student in the Department of Computer Science at the University of Illinois at Urbana Champaign, advised by Prof. Jimeng Sun. My broad research interests include: 
  - Generative modeling in AI

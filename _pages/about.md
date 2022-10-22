@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CS Ph.D. student at U of I 
+subtitle: *CS Ph.D. student at U of I *
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
     <p>Urbana,IL,USA</p>
 
 social: true  # includes social icons at the bottom of the page
-news: true  # includes a list of news items
+news: fakse  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
  I am a Ph.D. student in the Department of Computer Science at the University of Illinois at Urbana Champaign, advised by Prof. Jimeng Sun. My broad research interests include: 
